@@ -1,4 +1,6 @@
-# first-project
+
+
+# Week 1 activities
 
 <lo>
   <li> introducations </li>
